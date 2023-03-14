@@ -12,7 +12,7 @@
 
 | Lecture | Notes | Videos | Starter | Solution |
 | ------- | :---: | ------ | ------- | -------- |
-| 1. (03/13/23) Python Fundamentals     |  [Notes](#)     |  [Video](#)      |    [Starter](#)     |   [Solution](#)       |
+| 1. (03/13/23) Python Fundamentals     |  [Notes](https://github.com/learn-co-students/SENG-LIVE-013023-Phase-3/compare/main...01_notes)     |  [Video](https://vimeo.com/807666391)      |    [Starter](https://github.com/learn-co-students/SENG-LIVE-013023-Phase-3/tree/main/01_python_fundamentals)     |   [Solution](https://github.com/learn-co-students/SENG-LIVE-013023-Phase-3/tree/01_notes/01_python_fundamentals)       |
 | 2. (03/14/23) Python Data Structures     |  [Notes](#)     |   [Video](#)     |    [Starter](#)     |    [Solution](#)        |
 | 3. (03/15/23) Object Oriented Programming in Python     |  [Notes](#)     |  [Video](#)      |   [Starter](#)      |    [Solution](#)      |
 | 4. (03/16/23) OOP 2: Class Methods & Class Variables     |   [Notes](#)    |   [Video](#)     |   [Starter](#)      |  [Solution](#)        |
@@ -92,7 +92,7 @@
 - Demonstrate standard methods for accessing, updating and deleting values in Dictionaries
 - Demonstrate Set types with `set()` and `frozenset()`
 - Demonstrate `for` and `while` loops
-- Demonstrate list compressions 
+- Demonstrate list comprehensions 
 - Stretch Goals
     - Demonstrate Generator expressions 
     - Demonstrate how to create a `switch` using a Dictionary
@@ -113,7 +113,7 @@
 - Loops
     - `for`
     - `while`
-    - List Compression
+    - List Comprehensions
 - Sequence Operators
 - Sequence Functions and Methods
 - Stretch Topics
